@@ -1,0 +1,73 @@
+.form-white.input-group>.form-control:focus {
+  border-color: #fff;
+  box-shadow: inset 0 0 0 1px #fff;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #fff;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover,
+.navbar-dark .navbar-nav .nav-link:focus {
+  color: rgba(255, 255, 255, 0.75);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+html{
+  background-color: steelblue;
+}
+
+img{
+height: 50%;
+  width: 70%;
+margin: 10px;
+border: 6px soild red ;
+border-radius: 30px;
+}
+h1 {
+  color: red;
+  background-color: white;
+  width: 130px;
+border-radius: 20px;
+padding: 20px;
+}  
+
+
+body{
+color:mediumaquamarine;
+  background-color: darkblue;
+
+}
+p{
+
+
+  
+}
+#id_selector{
+color: darkred
+}
+#special{
+background-color: lightgreen;
+border: 3px soild black;;
+ border-radius: 10px;
+color: antiquewhite;
+  padding: 10px;
+text-align: center;
+  cursor: progress;
+}
+body{
+background-image:url(https://preview.redd.it/dtxrfe74iqj51.png?width=640&crop=smart&auto=webp&s=947648dfa379ca1ce85813a456349330beaa17c0)  
+  
+}
